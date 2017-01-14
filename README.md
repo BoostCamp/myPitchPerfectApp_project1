@@ -4,12 +4,10 @@ The Pitch Perfect Applciation allow you to record your voice and playback by usi
 
 ## Video
 
---------
 [Click](https://youtu.be/B9uTzzoPy1k)
 
 ## Sound Effects
 
---------
 + Slow Button
 + Fast Button
 + High-pitched Button
@@ -19,13 +17,11 @@ The Pitch Perfect Applciation allow you to record your voice and playback by usi
 
 ## Additional Features
 
---------
 + Voice Recognition
 + UIStackView for RecordSoundsViewController View
 + ADD Duration
 
 ##Info
 
---------
 +Author: taeseon.kim
 +1st BoostCamp project
