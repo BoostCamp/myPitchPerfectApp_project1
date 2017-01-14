@@ -4,7 +4,7 @@
 ## Video
 
 --------
-[동영상](https://github.com/BoostCamp/myPitchPerfectApp_project1/edit/master/README.md)
+[Click](https://youtu.be/B9uTzzoPy1k)
 
 ## Sound Effects
 
